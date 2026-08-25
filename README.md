@@ -1,6 +1,6 @@
-# leilei-ai-lab
+# shiyanshi
 
-这是我的个人 AI 实验仓库，用于测试 AI Agent、自动化工具和网页项目。
+这是我的个人 AI 实验室，用于测试 AI Agent、自动化工具和网页项目。
 
 ## 项目概述
 
